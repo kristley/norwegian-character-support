@@ -15,3 +15,12 @@ For more information about the .ahk scripting language, check out the [documenta
 
 If you want to edit the program you have to edit the .ahk-file. To run the .ahk-file you have to download [AutoHotkey](https://www.autohotkey.com/) and either run it through AutoHotkey, or convert it to an executable (.exe) by using "Convert .ahk to .exe" that comes with the AutoHotkey program.
 
+## How to make the script run on startup
+
+Windows: 
+
+1. Download this this repo as a .zip folder. 
+2. Open the "Startup" folder in Windows by pressing Windows-key + R, and typing in `shell:startup`
+3. Extract the `NorwayLanguage.exe` file to the "Startup" folder
+
+And that should be it!
